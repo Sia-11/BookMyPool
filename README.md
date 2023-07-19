@@ -1,2 +1,2 @@
 # BookMyPool
-Mini project on Car pooling application using java in android studio called BooKMyPool which is very much helpful  for pooling of car 
+Mini project on Carpooling application using java in Android Studio called BooKMyPool which is a user-friendly carpooling application.
