@@ -1,9 +1,13 @@
 # BookMyPool App
 
+BookMyPool is a mobile application designed to simplify the process of carpooling. It connects drivers and passengers, making shared rides efficient and accessible. This repository contains the source code and documentation for the BookMyPool app.
+
 ## Table of Contents
-- [Description](#description)
+
+- [Overview](#overview)
 - [Features](#features)
-- [Installation](#installation)
+- [Getting Started](#getting-started)
+- [Project Structure](#project-structure)
 - [Usage](#usage)
 - [License](#license)
 
@@ -13,13 +17,13 @@ The BookMyPool app is a carpooling platform that connects drivers and passengers
 
 ## Features
 
-- User registration and login.
-- Choose between the driver or passenger role.
-- Drivers can provide ride details.
-- Passengers can select their preferred drivers.
-- Confirming ride details for both drivers and passengers.
+- User-friendly registration and login.
+- Selection between driver and passenger modes.
+- Collection of driver and passenger details.
+- Confirmation and completion of rides.
+- A seamless user experience.
 
-## Installation
+## Getting Started
 
 To run the BookMyPool app locally, follow these steps:
 
@@ -29,7 +33,19 @@ To run the BookMyPool app locally, follow these steps:
 
 2. Open the project in Android Studio.
 
-3. Build and run the project on an Android emulator or device.
+3. Build and run the project on an Android emulator or physical device.
+
+4. Explore the app's features and functionalities.
+
+## Project Structure
+
+The project structure is organized as follows:
+
+- `app/`: Android application source code.
+- `database/`: Database schema and scripts.
+- `docs/`: Documentation files.
+- `screenshots/`: Screenshots of the app.
+- `tests/`: Test cases and testing documentation.
 
 ## Usage
 
